@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Maher Mahmoud</h1>
-<h3 align="center">A passionate Data Analyst from Egypt</h3>
+<h3 align="center">A Passionate Data Analyst from Egypt</h3>
 
-- 🔭 I’m currently working on
+- 🌟 I’m currently working on
 [awesome-public-datasets](https://github.com/maher-dataconsult/awesome-public-datasets) - 📫 How
 to reach me **maher.dataconsult@gmail.com**
 
