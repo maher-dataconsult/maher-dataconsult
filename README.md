@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Data Analyst from Egypt</h3>
 
 - 🌟 I’m currently working on
-[awesome-public-datasets](https://github.com/maher-dataconsult/awesome-public-datasets) - 📫 How
+[awesome-public-datasets](https://github.com/maher-dataconsult/awesome-public-datasets) **||** 📫 How
 to reach me **maher.dataconsult@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
