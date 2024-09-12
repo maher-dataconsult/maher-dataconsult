@@ -19,7 +19,7 @@ to reach me **maher.dataconsult@gmail.com**
       width="40"
   /></a>
     <a
-    href="tel: 00201116551250" target="blank"
+    href="https://wa.me/00201116551250" target="_blank" rel="noreferrer"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
@@ -64,6 +64,22 @@ to reach me **maher.dataconsult@gmail.com**
       height="40"
     />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/sql-database.svg"
+      alt="SQL"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/Power_BI_Logo.svg"
+      alt="PowerBI"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -88,12 +104,76 @@ to reach me **maher.dataconsult@gmail.com**
       height="40"
     />
   </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/airflow-svgrepo-com.svg"
+      alt="airflow"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://app.asana.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/asana-svgrepo-com.svg"
+      alt="Asana"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com/what-is/api/#:~:text=on%20your%20phone.-,What%20does%20API%20stand%20for%3F,of%20service%20between%20two%20applications." target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/api-svgrepo-com.svg"
+      alt="APIs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
       width="40"
       height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/vs-code-svgrepo-com.svg"
+      alt="VS code"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/jupyter-svgrepo-com.svg"
+      alt="jupyter notebook"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/numpy-svgrepo-com.svg"
+      alt="numpy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/Pandas.svg"
+      alt="Pandas"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maher-dataconsult/maher-dataconsult/main/icons/statistics1-svgrepo-com.svg"
+      alt="Statistics"
+      width="36"
+      height="50"
     />
   </a>
 
