@@ -26,7 +26,7 @@ to reach me **maher.dataconsult@gmail.com**
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/techhub" target="blank"
+  <a href="https://discord.gg/2vx7WpXXdD" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
